@@ -16,4 +16,4 @@ https://developers.nexon.com/fifaonline4
 
 #FIFA_modeling
 
-입력 받은 선수를 기반으로 컨텐츠기반 추천알고리즘을 활용하여 최적의 선수를 검색
+입력 받은 선수를 기반으로 컨텐츠기반 필터링을 활용하여 최적의 선수를 검색
