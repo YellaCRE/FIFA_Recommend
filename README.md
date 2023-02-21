@@ -10,7 +10,7 @@ https://developers.nexon.com/fifaonline4
 
 기본통계값 EDA와 포지션별 데이터 세분화 및 분석
 
-#FIFA_전처리
+#FIFA_preprocess
 
 기본 전처리 및 강화를 적용한 Data transformation
 
