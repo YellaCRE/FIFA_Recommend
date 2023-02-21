@@ -18,3 +18,7 @@ https://developers.nexon.com/fifaonline4
 
 입력 받은 선수를 기반으로 컨텐츠기반 필터링을 활용하여 최적의 선수를 검색
 .
+
+# Results
+
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/76480887/220229512-c768d9b3-3d53-4477-8f1b-6602b7410df3.png">
