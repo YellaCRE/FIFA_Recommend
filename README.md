@@ -24,3 +24,5 @@ https://developers.nexon.com/fifaonline4
 사용자가 입력한 선수 4명을 받았을 때 도출되는 결과 예시
 
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/76480887/220229512-c768d9b3-3d53-4477-8f1b-6602b7410df3.png">
+
+입력 받은 선수들을 분석하여 우선순위에 따라 선수 추천
