@@ -33,4 +33,4 @@ https://developers.nexon.com/fifaonline4
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/76480887/220229512-c768d9b3-3d53-4477-8f1b-6602b7410df3.png">
 
 입력 받은 선수들을 분석하여 우선순위에 따라 선수 추천  
-피파온라인4 유저들에게 테스트모델를 배포한 결과, 긍정적인 피드백을 받음.
+피파온라인4 유저들에게 테스트모델을 배포한 결과, 긍정적인 피드백을 받음.
